@@ -1,8 +1,6 @@
 ## What is it?
 
-This is a docker container for the mdwiki.
-
-mdwiki: http://dynalon.github.io/mdwiki
+This is a docker container for the webapp.
 
 
 ## How to run?
